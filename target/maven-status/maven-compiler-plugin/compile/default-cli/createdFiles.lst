@@ -1,0 +1,8 @@
+adba/lastminute/codetest/model/purchase/Item.class
+adba/lastminute/codetest/model/tax/TaxI.class
+adba/lastminute/codetest/model/purchase/Basket.class
+adba/lastminute/codetest/model/tax/ImportTax.class
+adba/lastminute/codetest/model/tax/TaxBase.class
+adba/lastminute/codetest/model/tax/BasicTax.class
+adba/lastminute/codetest/model/purchase/BasketI.class
+adba/lastminute/codetest/model/purchase/Purchase.class
